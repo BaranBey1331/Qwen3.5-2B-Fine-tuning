@@ -1,0 +1,6 @@
+-rw-rw-r-- 1 jules jules  8171810 Mar 10 15:53 css_dataset.jsonl
+-rw-rw-r-- 1 jules jules 39535673 Mar 10 15:51 frontend_dataset.jsonl
+-rw-rw-r-- 1 jules jules 11510937 Mar 10 15:53 html_dataset.jsonl
+-rw-rw-r-- 1 jules jules  9883520 Mar 10 15:53 nodejs_dataset.jsonl
+-rw-rw-r-- 1 jules jules  8993038 Mar 10 15:51 qwen_coding_dataset.jsonl
+-rw-rw-r-- 1 jules jules 13406270 Mar 10 15:53 react_dataset.jsonl
